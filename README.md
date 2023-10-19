@@ -5,6 +5,6 @@ I live in Granada.
 
 Positive, and good at self-learning.
 
-<strong>What can you find here?</strong>
+<b>What can you find here?</b>
 
 I'll try to upload the most of the things I'll do, including the practises of the studies.
