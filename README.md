@@ -1,6 +1,6 @@
 <h1>Hi there!</h1>
 
-My name is Daniel. I'm IT System Administrator and now i'm studying Web Application Development.
+My name is Daniel. I'm Web Application Development and IT System Administrator.
 I live in Granada.
 
 Positive, and good at self-learning.
