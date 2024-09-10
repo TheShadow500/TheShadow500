@@ -16,7 +16,7 @@ I'll try to upload the most of the things I'll do, including the class practices
 </div>
 
 ## &nbsp;My Activity & Skills
-<div>
+<div align="center">
   <img width=450 height=170 align="center" alt="Daniel Amores" src="https://github-readme-stats.vercel.app/api?username=TheShadow500&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true">
   <img align="center" alt="Daniel Amores" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShadow500&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true">
 </div>
