@@ -8,6 +8,16 @@ Positive, and good at self-learning.
 <b>WHAT CAN YOU FIND HERE?</b>
 <br>I'll try to upload the most of the things I'll do, including the class practices.
 
+## &nbsp;Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,php,html,css,js,java,c">
+</div>
+
+## &nbsp;APPs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github">
+</div>
+
 ## &nbsp;My Blogs
 <div align="center">
   <a href="https://www.sinister-software.com.es" title="Sinister Software" target="_blank"><img src="https://www.nerdnomada.es/proyectos/recursos/iconosinistersoftware.png" alt="Sinister Software></a>
