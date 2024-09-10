@@ -10,8 +10,8 @@ Positive, and good at self-learning.
 
 ## &nbsp;My Blogs
 <div align="center">
-  <a href="https://www.sinister-software.com.es" alt="Sinister Software" title="Sinister Software" target="_blank"><img src="https://www.nerdnomada.es/proyectos/recursos/iconosinistersoftware.png"></a>
-  <a href="https://www.nerdnomada.es" alt="NerdNómada" title="NerdNómada" target="_blank"><img src="https://www.nerdnomada.es/proyectos/recursos/icononerdnomada.png"></a>
+  <a href="https://www.sinister-software.com.es" title="Sinister Software" target="_blank"><img src="https://www.nerdnomada.es/proyectos/recursos/iconosinistersoftware.png" alt="Sinister Software></a>
+  <a href="https://www.nerdnomada.es" title="NerdNómada" target="_blank"><img src="https://www.nerdnomada.es/proyectos/recursos/icononerdnomada.png" alt="NerdNómada></a>
 </div>
 
 ## &nbsp;My Activity & Skills
