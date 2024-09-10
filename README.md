@@ -5,9 +5,8 @@ I live in Granada.
 
 Positive, and good at self-learning.
 
-<b>What can you find here?</b>
-
-I'll try to upload the most of the things I'll do, including the class practices.
+<b>WHAT CAN YOU FIND HERE?</b>
+<br>I'll try to upload the most of the things I'll do, including the class practices.
 
 ## &nbsp;My Blogs
 <div align="center">
