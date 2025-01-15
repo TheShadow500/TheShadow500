@@ -1,12 +1,27 @@
-<h1>Hi there!</h1>
+# Hi, I'm Daniel 👋
 
-My name is Daniel. I'm Web Application Development and IT System Administrator.
-I live in Granada.
+I'm a passionate **Web Application Developer** and **IT Systems Administrator** based in **Granada**, Spain. With a strong foundation in **software development** and a love for **self-learning**, I specialize in building **web applications**, creating **desktop tools**, and exploring **new programming languages**.
 
-Positive, and good at self-learning.
+## 🚀 What can you find here?
+This GitHub is a place where I share my work and projects, including:
 
-<b>WHAT CAN YOU FIND HERE?</b>
-<br>I'll try to upload the most of the things I'll do, including the class practices.
+- **Class assignments** and educational practices from my studies in **Web Application Development**.
+- **Personal projects** where I experiment with different technologies and programming languages.
+- **Open-source contributions** that I make to share and collaborate with others in the developer community.
+
+## 💡 About Me
+- **Self-driven** and always curious about learning new things.
+- Focused on writing clean, efficient code, and exploring new tech stacks.
+- Enthusiastic about contributing to the open-source community.
+
+Feel free to explore my repositories, contribute to my projects, or reach out if you're interested in collaborating!
+
+## 🛠️ Technologies I work with
+- **C#, PHP, JavaScript, HTML5, CSS3, Java, SQL**
+- **.NET, API Rest, Git, Visual Studio, VSCode**
+- **Adobe Photoshop, Adobe Illustrator, Camtasia Studio**
+
+Let's code and create awesome stuff together! 🚀
 
 ## &nbsp;Technologies
 <div align="center">
