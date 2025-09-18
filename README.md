@@ -17,8 +17,9 @@ This GitHub is a place where I share my work and projects, including:
 Feel free to explore my repositories, contribute to my projects, or reach out if you're interested in collaborating!
 
 ## 🛠️ Technologies I work with
-- **C#, PHP, JavaScript, HTML5, CSS3, Java, SQL**
-- **.NET, API Rest, Git, Visual Studio, VSCode**
+- **C#, PHP, JavaScript, HTML5, CSS3, Java, SQL, PowerShell**
+- **.NET, ASP.NET Core MVC, Entity Framework Core, Razor Pages, jQuery, Phaser, LINQ, API REST**
+- **Visual Studio, VSCode, Git, GitHub, Docker, Postman, Trello**
 - **Adobe Photoshop, Adobe Illustrator, Camtasia Studio**
 
 Let's code and create awesome stuff together! 🚀
