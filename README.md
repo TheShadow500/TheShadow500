@@ -25,12 +25,17 @@ Let's code and create awesome stuff together! 🚀
 
 ## &nbsp;Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,php,html,css,js,java,c">
+  <img src="https://skillicons.dev/icons?i=cs,php,html,css,js,java,c,powershell,mysql,sqlite">
 </div>
 
 ## &nbsp;APPs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman">
+</div>
+
+## &nbsp;Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,jquery,laravel">
 </div>
 
 ## &nbsp;My Blogs
